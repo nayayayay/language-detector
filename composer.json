@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "ChibiFR\\CountryConverter\\": "src/"
+            "ChibiFR\\LanguageDetector\\": "src/"
         }
     },
     "require": {}
