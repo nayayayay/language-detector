@@ -1,0 +1,17 @@
+{
+    "name": "chibifr/language-detector",
+    "description": "A PHP package that detects the language from a string and can learn new languages.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon Auber",
+            "email": "auber.simon@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ChibiFR\\CountryConverter\\": "src/"
+        }
+    },
+    "require": {}
+}
