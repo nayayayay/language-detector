@@ -71,4 +71,8 @@ return [
     'film',
     'adresse',
     'découvrez',
+	'bite',
+	'couille',
+	'chatte',
+	'cul'
 ];
