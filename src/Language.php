@@ -2,7 +2,7 @@
 namespace ChibiFR\LanguageDetector;
 
 /**
- * Represents a language from a /src/languages/[a-z\-].php file.
+ * Represent a language from a /src/languages/[a-z\-].php file.
  * It is used by the LanguageDetector to easily manage each language name and words.
  *
  * Class Language
